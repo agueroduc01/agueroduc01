@@ -19,7 +19,7 @@ Joined Github **4** years ago.
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> MySQL, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/agueroduc01).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/agueroduc01/issues)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/agueroduc01/agueroduc01/issues/1)! I am happy to help.
 - 📫 &nbsp; How to reach me: agueroduc01@gmail.com.
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf). -->
 
